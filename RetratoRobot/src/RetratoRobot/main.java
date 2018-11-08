@@ -1,11 +1,12 @@
 package RetratoRobot;
 
-public class RetratoRobot {
+import java.util.Scanner;
+
+public class main {
 
 	
-	
 	public static void main(String[] args) {
-	g
+	
 	
 	}
 
